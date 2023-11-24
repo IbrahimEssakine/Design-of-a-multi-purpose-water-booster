@@ -1,4 +1,4 @@
-# Designof a multi purpose water booster
+# Design of a multi purpose water booster
 # Introduction and State of the Art:
 The first chapter contextualizes the project by presenting the current state of research and publications related to the chosen topic.
 
